@@ -1,2 +1,2 @@
 # portfolio-react-journal
-https://roymg-react-portfolio-journal.netlify.app/auth/login
+https://roymg-react-portfolio-journal.netlify.app
